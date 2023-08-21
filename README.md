@@ -7,9 +7,9 @@ a critical aspect of ensuring safety and compliance with preventive measures.
 
 This repository provides a comprehensive toolkit for implementing the U-Net model, preprocessing data, training the model, and evaluating its performance.
 
-Dataset
+## Dataset
 We've utilized a carefully curated dataset of COVID-19-related images, meticulously annotated with binary mask labels. 
 This dataset serves as the foundation for training and evaluating the U-Net model's ability to identify mask-wearing instances.
 
-Results
+## Results
 Our U-Net-based solution achieved an impressive Iou metric of 92% on mask binary class segmentation.

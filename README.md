@@ -1,9 +1,8 @@
 # Covid_prediction_mask_BinaryClass_Segmentation_using_Unet
 ## COVID-19 Mask Binary Class Segmentation using U-Net
-In this project, we present a powerful solution for the segmentation of masks in COVID-19-related images using the U-Net architecture. 
-Our mission is to contribute to the fight against the pandemic by aiding in the accurate identification of mask-wearing behaviors in images.
-The COVID-19 Mask Binary Class Segmentation project focuses on automating the process of detecting masks in images, 
-a critical aspect of ensuring safety and compliance with preventive measures. 
+In this project, we leverage the robust U-Net architecture to address a crucial challenge: binary mask segmentation in chest X-rays for COVID-19 prediction.
+Our objective is to play a significant role in the ongoing battle against the pandemic by enhancing the accuracy of COVID-19 predictions through precise binary mask identification in chest X-ray images.
+The essence of our COVID-19 Binary Mask Segmentation initiative lies in automating the detection of masks in chest X-ray images. This automation proves vital in ensuring safety and adherence to preventive measures in the fight against the pandemic.
 
 This repository provides a comprehensive toolkit for implementing the U-Net model, preprocessing data, training the model, and evaluating its performance.
 
